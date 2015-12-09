@@ -1,0 +1,12 @@
+e10798f26b44ee80e70685b907106052 *DESCRIPTION
+eac0b1456f0e48638d68b244e4bb0f74 *NAMESPACE
+25677de483b296f69ee735fe77f23a82 *R/orsifronts.R
+d501b7ae984ec5170f4aecbad1472810 *README.md
+760706602221021e6bde6a141b158278 *build/vignette.rds
+a9123567f08ff2161d5aff5796cb81e2 *data/orsifronts.rdata
+a8e7caf51de8da1353d63880d258ae5a *inst/CITATION
+6eda49abb4d5e4545c30e90d59699f5b *inst/doc/orsifronts.R
+6b4b51b8c81b9ea8d64ddcf6094315ac *inst/doc/orsifronts.Rmd
+f40223463027cb711809922480af5c09 *inst/doc/orsifronts.html
+c70d1d888852199b1472a79ae3a54ad1 *man/orsifronts.Rd
+6b4b51b8c81b9ea8d64ddcf6094315ac *vignettes/orsifronts.Rmd
